@@ -23,7 +23,7 @@ int main(void) {
         scanf("%lf", &length);
         printf("Enter the width of the rectangle: ");
         scanf("%lf", &width);
-        area = length * width;
+        area = length * width;s
         printf("The area of the rectangle is %.2lf\n", area);
     } else if(choice == 3){
         double base, height;
