@@ -1,1 +1,1 @@
-Elementray tasks
+Elementary tasks
